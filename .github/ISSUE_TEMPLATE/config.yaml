@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/orgs/skyvar/discussions/new/choose
+    about: The place for questions, support, and feature requests
+
+  - name: 🧠 Knowledge Base
+    url: https://kb.skyvar.dev
+    about: Knowledge base of methodology, workflows, conventions, best-practices, and tips
+  
